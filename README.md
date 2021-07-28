@@ -2,7 +2,7 @@
 
 If you find it helpful, hit that ⭐ button.
 
-![Preview]https://github.com/afkniladri/Boston-Housing-Price-Prediction/blob/main/assets/boston.jpg)
+![Preview](https://github.com/afkniladri/Boston-Housing-Price-Prediction/blob/main/assets/boston.jpg)
 
 Real Estate has became one of the main places to put your investment in recent times. With the current instability in the market it has became too risky to invest in stock markets, gold prices constanly going down and goverment not considering crypocurrency as a serious option. That being said, owing a property seems to be a viable option to put your money in. So with this motivation we need to analyze what factors leads to the price of a property in an area, we'll be predicting house prices in Boston, USA.
 
