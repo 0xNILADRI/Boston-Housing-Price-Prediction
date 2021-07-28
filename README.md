@@ -1,5 +1,3 @@
-Multiple Linear Regression performed on Boston Housing dataset to predict prices of the property.
-
 # Boston House Price Prediction
 
 If you find it helpful, hit that ⭐ button.
